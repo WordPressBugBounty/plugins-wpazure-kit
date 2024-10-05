@@ -1,0 +1,1 @@
+# plugins-wpazure-kit
